@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "Papyrus";
+  src: url("./papyrus.ttf");
+}
 /* Reset */
 ul {
   margin: 0;
@@ -33,7 +37,7 @@ button {
 }
 
 .header__info-link {
-  font-family: fantasy, cursive;
+  font-family: "Papyrus";
 }
 
 @media (max-width: 768px) {
